@@ -6,7 +6,7 @@ Greetings from sunny Singapore 🇸🇬. This is where I do my tinkering 👷 wh
 
 #### 🤔 About Me
 
-I started coding (in BASIC!) before the Web 🌐 was invented 😲, and entered the tech industry just when the dotcom burst. I've been an IT consultant, architect, project manager, and I'm now leading a team of mobile & web application developers to implement full-stack software solutions for clients.
+I started coding (in BASIC!) before the Web 🌐 became a thing 😲, and entered the tech industry just when the dotcom burst. I've been an IT consultant, architect, project manager, and I'm now leading a team of mobile & web application developers to implement full-stack software solutions for clients.
 
 I graduated from UC Berkeley with a BS in EECS, and from Stanford with an MS in Computer Science. 
 
