@@ -1,36 +1,25 @@
-_🚧 Under construction 🚧_
+# `Hello World!`
 
-### Hello world! I'm Gek Siong 🧑‍💻
+Hi I'm **Gek Siong**
 
-Greetings from sunny Singapore 🇸🇬. This is where I do my tinkering 👷 when I have the time ⏱️.
+> 👨‍💻 IT consultant / agile software development / mobile apps / devops  
+> 🎓 BSc EECS UC Berkeley / MS Computer Science Stanford  
+> 🏠 1.35°N, 103.82°E 🇸🇬
 
-#### 🤔 About Me
+Welcome to to my lab👨‍🔬. This is where I do my tinkering, or contribute to open source software when I have the time. 
 
-I started coding (in BASIC!) before the Web 🌐 became a thing 😲, and entered the tech industry just when the dotcom burst. I've been an IT consultant, architect, project manager, and I'm now leading a team of mobile & web application developers to implement full-stack software solutions for clients.
+I've been working in the tech industry since the dotcom bubble days. Currently I'm leading a team of talented software engineers to deliver full-stack software solutions using agile development methodology for clients.
 
-I graduated from UC Berkeley with a BS in EECS, and from Stanford with an MS in Computer Science. 
+<p align="center">Mobile Apps ⬩ Web Development ⬩ Architecture ⬩ Security ⬩ Amazon Web Services ⬩ CI/CD ⬩ Open Source</p>
+<p align="center">Linux ⬩ Java ⬩ Node ⬩ Python ⬩ Perl ⬩ Docker ⬩ MySQL ⬩ Jenkins CI ⬩ SonarQube</p>
+<p align="center">vim ⬩ vscode</p>
 
-#### 🌱 Interests
+### Fun Facts
 
-* Mobile & Web application development
-* Cloud Technologies (Amazon Web Services)
-* Continuous Integration & Deployment
-* Containers
+* 💾 My first programming language is BASIC (unless you count Logo)
+* ⌨️ I've used Lotus 123, WordStar, WordPerfect, Geoworks...
+* 🎵 I play the classical guitar (and _kinda play_ several other instruments)
 
-I also play the classical guitar 🎸 😍 (we need more guitar emojis!) and dabble in other musical instruments.
+—
 
-
-<!--
-**geksiong/geksiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_🚧Under construction🚧_
