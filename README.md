@@ -18,6 +18,8 @@ Works in progress
 
 | Project | What it is |
 | --- | --- |
+| [ToneCraft](https://geksiong.github.io/ToneCraft/) | Guitar pedal board in your browser! |
+| [ToneSmith](https://geksiong.github.io/ToneSmith/) | Electric Guitar Wiring Builder & Simulator |
 | [MusoBuddy](https://geksiong.github.io/musobuddy/) | A companion for music practice, with score viewing, a metronome, tuner, and accompaniment generator. |
 | [Cambium Notes](https://github.com/geksiong/cambium-notes) | A WYSIWYG markdown editor |
 | [Agent Handler](https://github.com/geksiong/agent-handler) | A security framework and starter configuration for executing AI coding assistants inside isolated, hardened sandboxes. |
